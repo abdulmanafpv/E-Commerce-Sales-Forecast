@@ -20,7 +20,7 @@ For Creating a model i Used
 1) Artificial Neural Network(ANN)
  
 # Result:
-The ANN model have 3 layers and in each layer contains 32 units Neurons. The model gives 0.98 score.
+This is a 3 layer ANN model and in each layer contains 32 units Neurons. This model gives 0.98 score.
 
 # Tools Used
 
